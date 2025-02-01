@@ -4,8 +4,8 @@
 ## Created project with React.js, Vite.js, Sass and Draggable.js library.
 
 ## How was build?
-<p style-"width: 200px; text-align: start">
-<span><q>Library:</q></span>
+<p style-"width: 200px; height: 200px; text-align: right">
+<span><i>Library:</i></span>
   - React
   - Vite
   - Sass
